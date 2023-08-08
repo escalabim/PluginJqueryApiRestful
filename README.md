@@ -2,7 +2,6 @@
 Segue o plugin jquery para consumi Apis Restful usando ajax.
 Exemplos de chamadas no seu codigo jquery 
 
-
 1 USE ALGO ASSIM PARA SE VOCÊ FOR CONSUMIR UMA API COM AUTENTICAÇÃO 'Bearer'
 
     let token = "********";
@@ -38,7 +37,7 @@ Exemplos de chamadas no seu codigo jquery
    
     let run = { authorization: false, control: "" };
     $.ApiGET(run).done(function (data) {
-        $.animatelatxt("Aguarde...", false);
+       
         let response = JSON.stringify(data);
         let final = JSON.parse(response);         
          
@@ -60,4 +59,6 @@ Exemplos de chamadas no seu codigo jquery
            
         }
     });
+
+
 
