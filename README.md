@@ -1,5 +1,6 @@
 # PluginJqueryApiRestful
 Segue o plugin jquery para consumi Apis Restful usando ajax.
+
 Exemplos de chamadas no seu codigo jquery 
 
 1 USE ALGO ASSIM PARA SE VOCÊ FOR CONSUMIR UMA API COM AUTENTICAÇÃO 'Bearer'
