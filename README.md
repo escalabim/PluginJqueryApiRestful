@@ -1,4 +1,4 @@
-# PluginJqueryApiRestful
+# plugin-jquery-apirestful
 Segue o plugin jquery para consumi Apis Restful usando ajax.
 
 Exemplos de chamadas no seu codigo jquery 
